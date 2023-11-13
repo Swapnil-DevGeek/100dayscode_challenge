@@ -8,9 +8,8 @@ void printArray(int arr[],int size){
 
 bool searchElement(int arr[],int size,int element)
 {
-    for(int i=0;i<size;i++) {
+    for(int i=0;i<size;i++) 
         if(arr[i] == element) return 1;
-    }
 
     return 0;
 }
