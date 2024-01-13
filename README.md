@@ -13,3 +13,8 @@ Achieving my target 🎯<br/>
 <h3>Day3</h3>
 -Arrays Questions <br/>
 -Time and Space Complexity.
+
+<h3>Day4</h3>
+-Basic Recusrsion <br/>
+-Basic Hashing <br/>
+-Important Sorting Techniques <br/>
